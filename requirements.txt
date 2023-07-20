@@ -1,2 +1,2 @@
-Pygments==2.14.0
+Pygments==2.15.0
 pywin32==306
